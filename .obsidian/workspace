@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "a6aa83d88349def9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfbb8fb19355359a",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "pictures/volcano.jpg"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae464196232947af",
+    "type": "split",
+    "children": [
+      {
+        "id": "9897c99b921b0c95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "801a1de53f352ad9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5005291bbc43ff61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ed69b54f9361b02",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c19041cd32de28e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8baa54b6415ee078",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pictures/volcano.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bfbb8fb19355359a",
+  "lastOpenFiles": [
+    "pictures/volcano.jpg",
+    "pictures/fencing.png",
+    "pictures/dog.jpg",
+    "pictures/bike.jpg"
+  ]
+}
